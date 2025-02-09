@@ -23,7 +23,7 @@ This application simplifies database operations by providing a graphical interfa
 
 ## Installation
 
-1. **Clone the repository:**
+*Clone the repository
    ```bash
    git clone [https://github.com/Youssef-khalouk/SQL-Database-Control-App.git](https://www.google.com/search?q=https://github.com/Youssef-khalouk/SQL-Database-Control-App.git)
 
