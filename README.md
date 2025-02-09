@@ -32,7 +32,7 @@ This application simplifies database operations by providing a graphical interfa
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your_username/your_repository_name.git](https://www.google.com/search?q=https://github.com/your_username/your_repository_name.git)
+   git clone [https://github.com/Youssef-khalouk/SQL-Database-Control-App.git](https://www.google.com/search?q=https://github.com/Youssef-khalouk/SQL-Database-Control-App.git)
 
 ## Images
 ![Image](https://github.com/user-attachments/assets/5e9e5d63-7f7a-426c-8db0-b590dc1e4027)
