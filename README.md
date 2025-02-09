@@ -1,6 +1,6 @@
 
 
-
+* Download and install XAMPP from [https://www.apachefriends.org/index.html](https://www.google.com/url?sa=E&source=gmail&q=https://www.apachefriends.org/index.html).  This provides MySQL, PHP, and other tools.  You only need MySQL for this application.
 
 # Database Control App
 
@@ -11,10 +11,6 @@ This is a Python application that provides a user interface (UI) for interacting
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 - [Images](#Images)
 
 ## Introduction
