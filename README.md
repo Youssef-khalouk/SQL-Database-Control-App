@@ -23,12 +23,12 @@ This application simplifies database operations by providing a graphical interfa
 
 ## Installation
 
-*Clone the repository
+* Clone the repository:
    ```bash
    git clone [https://github.com/Youssef-khalouk/SQL-Database-Control-App.git](https://www.google.com/search?q=https://github.com/Youssef-khalouk/SQL-Database-Control-App.git)
 
 
-* Install MYSQL in Python
+* Install MYSQL in Python:
   ```bash
      pip install mysql-connector-python
 * Download and install XAMPP from [https://www.apachefriends.org/index.html](https://www.google.com/url?sa=E&source=gmail&q=https://www.apachefriends.org/index.html).  This provides MySQL, PHP, and other tools.  You only need MySQL for this application.
