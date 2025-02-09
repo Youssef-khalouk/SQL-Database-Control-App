@@ -29,7 +29,8 @@ This application simplifies database operations by providing a graphical interfa
 
 
 * Install MYSQL in Python
-     pip install 
+  ```bash
+     pip install mysql-connector-python
 * Download and install XAMPP from [https://www.apachefriends.org/index.html](https://www.google.com/url?sa=E&source=gmail&q=https://www.apachefriends.org/index.html).  This provides MySQL, PHP, and other tools.  You only need MySQL for this application.
 
 ## Images
