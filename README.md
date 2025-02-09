@@ -12,7 +12,7 @@ This is a Python application that provides a user interface (UI) for interacting
 
 ## Introduction
 
-This application simplifies database operations by providing a graphical interface. Users can [list the main functionalities, e.g., view, add, edit, and delete records] without needing to write SQL queries directly.
+This application simplifies database operations by providing a graphical interface. Users can [view, add, edit, and delete records] without needing to write SQL queries directly.
 
 ## Features
 
