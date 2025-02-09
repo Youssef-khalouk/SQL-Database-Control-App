@@ -15,7 +15,7 @@ This is a Python application that provides a user interface (UI) for interacting
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Images](#Imaegs)
+- [Images](#Images)
 
 ## Introduction
 
@@ -23,12 +23,10 @@ This application simplifies database operations by providing a graphical interfa
 
 ## Features
 
-* **[Feature 1]:** [Detailed description of the feature, e.g., View all records in a table with sorting and filtering options.]
-* **[Feature 2]:** [Detailed description of the feature, e.g., Add new records with data validation to prevent errors.]
-* **[Feature 3]:** [Detailed description of the feature, e.g., Edit existing records with real-time updates.]
-* **[Feature 4]:** [Detailed description of the feature, e.g., Delete records with confirmation dialogs.]
-* **[Feature 5]:** [Detailed description of the feature, e.g., Search records based on different criteria.]
-* **[Feature 6]:** [Detailed description of the feature, e.g., Export data to CSV or other formats.] (If applicable)
+* **[Feature 1]:** [ View all records in a table with sorting and filtering options. ]
+* **[Feature 2]:** [ Add new records with data validation to prevent errors. ]
+* **[Feature 3]:** [ Edit existing records with real-time updates. ]
+* **[Feature 4]:** [ Delete records with confirmation dialogs. ]
 
 ## Installation
 
